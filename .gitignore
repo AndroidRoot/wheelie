@@ -1,0 +1,9 @@
+wheelie
+build
+bin
+include/config.h
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+

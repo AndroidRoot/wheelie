@@ -1,0 +1,11 @@
+#ifndef _WHEELIE_CONFIG_H_
+#define _WHEELIE_CONFIG_H_
+
+#define WHEELIE_VERSION "@WHEELIE_VERSION@"
+#define USB_VERSION "@USB_VERSION@"
+#define USB_ABI "@USB_ABI@"
+#define NV3P_VERSION "@NV3P_VERSION@"
+#define NV3P_ABI "@NV3P_ABI@"
+#cmakedefine DEBUGOUTPUT
+
+#endif /* _WHEELIE_CONFIG_H_ */
